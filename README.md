@@ -1,7 +1,3 @@
-Here's a well-structured **README.md** file for your GitHub repository based on the **DeepSeek R1 model deployment on Amazon Bedrock**:  
-
----
-
 # **Deploying DeepSeek R1 on Amazon Bedrock**  
 
 This repository provides a step-by-step guide to deploying the **DeepSeek R1** model on **Amazon Bedrock**, leveraging AWS services for scalable and efficient inference.  
